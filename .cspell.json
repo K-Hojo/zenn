@@ -7,7 +7,10 @@
   "words": [
     "joshi",
     "textlintrc",
-    "zenn"
+    "zenn",
+    "hoge",
+    "fuga",
+    "nextjs"
   ],
   // flagWords - list of words to be always considered incorrect
   // "flagWords": [],

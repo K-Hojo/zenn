@@ -17,13 +17,14 @@
     },
     "preset-ja-technical-writing": {
       "sentence-length": {
-        "max": 150
+        "max": 160
       },
       "no-exclamation-question-mark": {
         "allowFullWidthExclamation": true,
         "allowFullWidthQuestion": true
       },
       "ja-no-successive-word": false,
+      "ja-no-weak-phrase": false,
       "ja-no-mixed-period": {
         "allowPeriodMarks": [
           ":",
@@ -35,7 +36,8 @@
         "allow": [
           "も",
           "や",
-          "か"
+          "か",
+          "が"
         ],
         "separatorCharacters": [
           ",",
@@ -60,6 +62,9 @@
       "ja-space-around-code": {
         "before": true,
         "after": true
+      },
+      "ja-space-between-half-and-full-width": {
+        "space": [ "punctuation" ]
       }
     }
   }
