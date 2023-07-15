@@ -25,12 +25,7 @@
       },
       "ja-no-successive-word": false,
       "ja-no-weak-phrase": false,
-      "ja-no-mixed-period": {
-        "allowPeriodMarks": [
-          ":",
-          "："
-        ]
-      },
+      "ja-no-mixed-period": false,
       "no-doubled-joshi": {
         "strict": false,
         "allow": [
