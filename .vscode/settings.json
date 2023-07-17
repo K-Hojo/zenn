@@ -7,7 +7,8 @@
       "comments": true,
       "strings": true
     },
-    "editor.snippetSuggestions": "top"
+    "editor.snippetSuggestions": "top",
+    "editor.tabSize": 2
   },
 
   // // Zenn theme
